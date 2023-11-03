@@ -1,5 +1,3 @@
-import { FeedbackOptions } from 'components/feedbackOptions';
-
 export const Section = ({ title, children }) => {
   return (
     <section>
